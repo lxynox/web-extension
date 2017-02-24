@@ -13,6 +13,7 @@ The **manifest** file
 - offer important info and meta data of app
 - json format
 - sample
+
   ```json
   {
     "name": "My Extension",
